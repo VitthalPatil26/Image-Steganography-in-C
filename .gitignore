@@ -1,14 +1,8 @@
-# Compiled executables
 Steganography
 a.out
-
-# Object files
 *.o
-
-# Vim temporary files
 *.swp
 *.swo
-
-# Generated output files
 decoded.txt
 stego.bmp
+[output.txt]
